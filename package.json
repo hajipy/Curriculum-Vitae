@@ -1,0 +1,11 @@
+{
+  "name": "Curriculum-Vitae",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://hajipy@github.com/hajipy/Curriculum-Vitae.git",
+  "author": "Kenichi Saito <hajime@studiohff.net>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "md-to-pdf": "^3.2.1"
+  }
+}
