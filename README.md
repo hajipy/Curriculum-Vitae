@@ -6,8 +6,8 @@
 |---|-----|
 |氏名|斎藤 謙一(Kenichi Saito)|
 |年齢|41歳|
-|GitHub|[hajipy](https://github.com/hajipy)|
-|ブログ|[HAJIPY.NET](https://hajipy.net/)|
+|GitHub|[https://github.com/hajipy](https://github.com/hajipy)|
+|ブログ|[https://hajipy.net](https://hajipy.net)|
 
 ## できること
 - メンバー数10名以下の小規模プロジェクトのリーダー。必要であればプレイヤーの役割もこなせる。同時に複数プロジェクトも可能
@@ -199,12 +199,13 @@
 
 2017年末からElectron + Vue.js + TypeScriptで「Frames」という名前のアプリを個人で開発しています。
 
-アプリの概要は開発2周年に書いた[こちらの記事](https://hajipy.net/2019/12/individual-dev-2019/)をご参照ください。  
+アプリの概要は開発2周年に書いた以下の記事をご参照ください。  
+[https://hajipy.net/2019/12/individual-dev-2019/](https://hajipy.net/2019/12/individual-dev-2019/)
 
 上記記事を書いたあとも開発は継続しており、アプリとして公開するための体裁が整いました。
 
 - アプリアイコン
-    - 作成スキルがないため、[クラウドワークス](https://crowdworks.jp/public/jobs/4894441)で発注
+    - 作成スキルがないため、クラウドワークスで発注
 - 利用許諾同意画面
 - リリースノート画面
 - 自動バージョンアップの仕組み
@@ -217,10 +218,11 @@
 
 ### オープンソース
 
-- [embedded-queue](https://www.npmjs.com/package/embedded-queue)
+- embedded-queue
+    - https://www.npmjs.com/package/embedded-queue
     - TypeScriptで書かれた組み込みジョブ/メッセージキュー
     - Electron製のデスクトップアプリでの使用を想定。キュー専用の別プロセスの起動を必要としない
-    - バックエンドにはMongoDB互換の組み込みデータベース[nedb](https://github.com/louischatriot/nedb)を使用
+    - バックエンドにはMongoDB互換の組み込みデータベースnedbを使用
     - 前述の個人開発アプリ Framesの成果物をオープンソースとして切り出して公開したもの
 
 ## スキル
