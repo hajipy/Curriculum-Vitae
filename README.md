@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |氏名|斎藤 謙一(Kenichi Saito)|
-|年齢|41歳|
+|年齢|42歳|
 |GitHub|[https://github.com/hajipy](https://github.com/hajipy)|
 |ブログ|[https://hajipy.net](https://hajipy.net)|
 
