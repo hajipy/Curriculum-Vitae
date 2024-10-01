@@ -7,7 +7,6 @@
 |氏名|斎藤 謙一(Kenichi Saito)|
 |年齢|45歳|
 |GitHub|[https://github.com/hajipy](https://github.com/hajipy)|
-|ブログ|[https://hajipy.net](https://hajipy.net)|
 
 ## できること
 - メンバー数10名以下の小規模プロジェクトのリーダー。必要であればプレイヤーの役割もこなせる。同時に複数プロジェクトも可能
@@ -246,9 +245,6 @@
 ### 個人開発アプリ Frames
 
 2017年末からElectron + Vue.js + TypeScriptで「Frames」という名前のアプリを個人で開発しています。
-
-アプリの概要は開発2周年に書いた以下の記事をご参照ください。  
-[https://hajipy.net/2019/12/individual-dev-2019/](https://hajipy.net/2019/12/individual-dev-2019/)
 
 上記記事を書いたあとも開発は継続しており、アプリとして公開するための体裁が整いました。
 
