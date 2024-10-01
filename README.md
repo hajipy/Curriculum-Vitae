@@ -5,7 +5,7 @@
 |key|value|
 |---|-----|
 |氏名|斎藤 謙一(Kenichi Saito)|
-|年齢|44歳|
+|年齢|45歳|
 |GitHub|[https://github.com/hajipy](https://github.com/hajipy)|
 |ブログ|[https://hajipy.net](https://hajipy.net)|
 
@@ -26,11 +26,25 @@
 
 ### 2021年12月〜現在 株式会社CureApp
 
-#### 2024年01月〜現在
+#### 2024年07月〜現在
+- プロジェクト概要
+    - リリース済み民間向けヘルスケアアプリの開発・運用
+    - 大規模改修(技術スタックの変更)の調査・提案
+- 役割
+    - プログラマー
+- 規模
+    - プログラマー 3名
+- 担当業務
+    - フロントエンド、バックエンド、インフラ
+    - 設計、コーディング、テスト、運用/保守
+- 使用技術
+    - TypeScript、JavaScript、Flow、CoffeeScript、React、Next.js、React Native、LoopBack、MongoDB、AWS
+
+#### 2024年01月〜2024年06月
 
 - プロジェクト概要
     - リリース済み治療アプリの開発・運用
-    - 大規模改修の調査・提案
+    - 大規模改修(ドメインロジックの再設計)の調査・提案
 - 役割
     - プログラマー
 - 規模
