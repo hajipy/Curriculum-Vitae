@@ -39,7 +39,7 @@
     - フロントエンド、バックエンド、インフラ
     - 設計、コーディング、テスト、運用/保守
 - 使用技術
-    - React、Next.js、React Native、MongoDB、AWS
+    - TypeScript、React、Next.js、React Native、MongoDB、AWS
 
 #### 2021年12月〜2023年12月
 
@@ -54,7 +54,7 @@
     - フロントエンド、バックエンド、インフラ、マネージメント
     - 設計、コーディング、テスト、運用/保守
 - 使用技術
-    - React、Next.js、React Native、MongoDB、PostgreSQL、AWS
+    - TypeScript、React、Next.js、React Native、MongoDB、PostgreSQL、AWS
 
 ### 2011年01月〜2021年11月 KLab株式会社
 
