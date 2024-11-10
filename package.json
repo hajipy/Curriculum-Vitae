@@ -6,6 +6,6 @@
   "author": "Kenichi Saito <hajime@studiohff.net>",
   "license": "UNLICENSED",
   "dependencies": {
-    "md-to-pdf": "^3.2.1"
+    "md-to-pdf": "^5.2.4"
   }
 }
