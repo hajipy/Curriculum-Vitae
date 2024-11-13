@@ -7,5 +7,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "md-to-pdf": "^5.2.4"
+  },
+  "scripts": {
+    "build": "md-to-pdf README.md"
   }
 }
